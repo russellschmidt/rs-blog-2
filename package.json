@@ -1,6 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "description": "Gatsby hello world starter",
+  "name": "rusl-io",
+  "description": "Russell Schmidt's Portfolio and Blog",
+  "author": "Russell Schmidt",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
