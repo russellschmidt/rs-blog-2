@@ -5,22 +5,29 @@ import Link from "gatsby-link";
 
 import { rhythm } from "../utils/typography";
 
-const linkStyle = css({ 
-  float: `right`, 
-  textDecoration: `none`, 
+const linkStyle = css({
+  float: `right`,
+  textDecoration: `none`,
   marginRight: `1rem`,
-  color: `#dd8`,
-  "&:hover": {color: `#ee0`}
+  color: `#ccc`,
+  "&:hover": {color: `#fff`}
 });
 
 export default ({ children }) => (
   <g.Body
-    color={`#FFF`}
-    background={`#000`}
+    color={`#ccc`}
+    background={`#333`}
+    height={`100vh`}
+    background={`#6b6b6b`} // Old browsers
+    background={`-moz-linear-gradient(top, #6b6b6b -25%, #000000 100%)`} //FF3.6-15
+    background={`-webkit-linear-gradient(top, #6b6b6b -25%,#000000 100%)`} // Chrome10-25,Safari5.1-6
+    background={`linear-gradient(to bottom, #6b6b6b -25%,#000000 100%)`} // W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+
+    filter={`progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b6b6b', endColorstr='#000000',GradientType=0 )`} // IE6-9
   >
     <g.Div
       margin={`0 auto`}
-      maxWidth={`90%`}
+      width={`90vw`}
+      maxWidth={`1280px`}
       padding={rhythm(2)}
       paddingTop={rhythm(1.5)}
     >

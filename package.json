@@ -6,7 +6,7 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/russellschmidt/rs-blog-2.git"
-  }
+  },
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
