@@ -45,6 +45,3 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     });
   });
 }
-
-
-// node.: {regex: "/blog/.*\\.md$/"}
