@@ -18,11 +18,12 @@ export default ({ children }) => (
     color={`#ccc`}
     background={`#333`}
     height={`100vh`}
-    background={`#6b6b6b`} // Old browsers
-    background={`-moz-linear-gradient(top, #6b6b6b -25%, #000000 100%)`} //FF3.6-15
-    background={`-webkit-linear-gradient(top, #6b6b6b -25%,#000000 100%)`} // Chrome10-25,Safari5.1-6
-    background={`linear-gradient(to bottom, #6b6b6b -25%,#000000 100%)`} // W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+
-    filter={`progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b6b6b', endColorstr='#000000',GradientType=0 )`} // IE6-9
+    background={`#4b4b4b`}
+    background={`-moz-linear-gradient(top, #4b4b4b 0%, #000000 50%)`}
+    background={`-webkit-linear-gradient(top, #4b4b4b 0%,#000000 50%)`}
+    background={`-o-linear-gradient(top, #4b4b4b 0%,#000000 50%)`}
+    background={`linear-gradient(to bottom, #4b4b4b 0%,#000000 50%)`}
+    filter={`progid:DXImageTransform.Microsoft.gradient( startColorstr='#4b4b4b', endColorstr='#000000',GradientType=0 )`}
   >
     <g.Div
       margin={`0 auto`}
