@@ -2,6 +2,7 @@ import React from "react";
 import g from "glamorous";
 import { css } from "glamor";
 import Link from "gatsby-link";
+import Helmet from "react-helmet";
 
 import { rhythm } from "../utils/typography";
 
@@ -12,6 +13,7 @@ const linkStyle = css({
   color: `#ccc`,
   "&:hover": {color: `#fff`}
 });
+
 
 export default ({ children }) => (
   <g.Body
@@ -25,6 +27,13 @@ export default ({ children }) => (
     background={`linear-gradient(to bottom, #4b4b4b 0%,#000000 50%)`}
     filter={`progid:DXImageTransform.Microsoft.gradient( startColorstr='#4b4b4b', endColorstr='#000000',GradientType=0 )`}
   >
+    <Helmet
+      title="rusl.io: Russell Schmidt's Portfolio and Blog"
+      meta={[
+        { name: "description", content: "This is the blog and app portfolio website for Russell Schmidt, a Los Angeles-based developer." },
+        { name: "keywords", content: "developer, Russell Schmidt, Los Angeles, React, Ruby on Rails, JavaScript, jQuery, HTML, CSS, SASS, JS, Gatsby, Node, Yarn, Webpack, NPM, web app, React Native, mobile app" }
+      ]}
+    />
     <g.Div
       margin={`0 auto`}
       width={`90vw`}
