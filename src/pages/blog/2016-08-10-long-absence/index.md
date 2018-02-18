@@ -1,7 +1,8 @@
 ---
-path: "/long-absence"
+path: "/blog/long-absence"
 date: "2016-08-10T17:12:33.962Z"
 title: "Long Absence"
+type: "blog"
 ---
 
 Seems that I have bitten off a bit more than I could chew of late and my writing on this bloggo 4 doggos has fallen behind a bit. I saw my Google Analytics drop from 10 visitors a day to 3, a terrible turn of events. So much for that dream of passive income through terrible blogging. And yes I am sorry, faithful reader(s). In the spirit of the Rio Olympics, I will Go for Gold&trade; from here on out.

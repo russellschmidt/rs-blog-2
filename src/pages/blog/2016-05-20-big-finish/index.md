@@ -1,7 +1,8 @@
 ---
-path: "/big-finish"
+path: "/blog/big-finish"
 date: "2016-05-20T10:12:33.962Z"
 title: "Big Finish"
+type: "blog"
 ---
 
 Some people with ischemic stroke where the right side of the brain is hit, they can still perform advanced math but lose perspective on whether the answer makes sense - they lose their 'smell test' as to whether things make sense.

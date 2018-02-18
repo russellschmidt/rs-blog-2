@@ -1,7 +1,8 @@
 ---
-path: "/heaps-of-fun"
+path: "/blog/heaps-of-fun"
 date: "2016-08-23T17:12:33.962Z"
 title: "Heaps of Fun"
+type: "blog"
 ---
 
 ## Happy Sorta-Anniversary

@@ -1,7 +1,8 @@
 ---
-path: "/array-magic"
+path: "/blog/array-magic"
 date: "2016-10-11T17:12:33.962Z"
 title: "Array Magic"
+type: "blog"
 ---
 
 My current assignment with Bloc is a multi-week recreation of an ActiveRecord-ish ORM to integrate with a Rails-ish framework we develop next. The idea is that I learn about databases as a computer science grad would through creating the software to bind SQLite to our lovely Ruby. I have to say, this is the hardest assignment I have had in the program to date.

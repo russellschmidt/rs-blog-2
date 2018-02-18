@@ -1,7 +1,8 @@
 ---
-path: "/react-time"
+path: "/blog/react-time"
 date: "2016-05-11T17:12:33.962Z"
 title: "React Time"
+type: "blog"
 ---
 
 I started to love Angular a little. I loved the ease of use, I loved the native-app-like feel. It hurts me to leave, after everything we went through. I still want to continue learning Angular and want to even do an additional Bloc project or my own project in Angular, perhaps, to stay sharp.

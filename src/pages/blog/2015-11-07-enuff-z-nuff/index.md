@@ -1,7 +1,8 @@
 ---
-path: "/enuff-z-nuff"
+path: "/blog/enuff-z-nuff/"
 date: "2015-11-07T17:12:33.962Z"
 title: "Enuff Z Nuff"
+type: "blog"
 ---
 
 So that title might be a *little* bit of an exaggeration.  But it expresses my horror of going from sweet, sweet Ruby-babe to the gsub method within Ruby that uses Regular Expressions. For all my millions of readers that are unfamiliar with the concept, Regular Expressions (henceforth to be called "regex") are "a sequence of characters that define a search pattern" per Wikipedia. Put another way, it is a cross between cuneiform and heiroglyphics that allows you as a programmer to match patterns and characters and find stuff. This is helpful if you are dealing with user input and validation, databases, doing find and replace type functions, and anything where you are hunting down a specific sequence of characters.

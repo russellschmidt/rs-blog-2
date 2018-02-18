@@ -1,7 +1,8 @@
 ---
-path: "/skill-based-skill"
+path: "/blog/skill-based-skill"
 date: "2016-04-06T17:12:33.962Z"
 title: "Skill-Based Skill"
+type: "blog"
 ---
 
 # Echo Applications Part Two

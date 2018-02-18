@@ -1,7 +1,8 @@
 ---
-path: "/bloc-jams"
+path: "/blog/bloc-jams"
 date: "2016-04-28T17:12:33.962Z"
 title: "Bloc Jams"
+type: "blog"
 ---
 
 Finally finished refactoring the Bloc Jams music player into Angular. You can [find it here](ancient-peak-81208.herokuapp.com) and turn those speakers way way up.

@@ -1,7 +1,8 @@
 ---
-path: "/learn-2-learn"
+path: "/blog/learn-2-learn"
 date: "2016-04-29T17:12:33.962Z"
 title: "Learn2Learn"
+type: "blog"
 ---
 
 ![Sponge of Knowledge](/images/sponge.jpg) Because 11 open projects are not enough and because I hate free time, I am taking a [Coursera class on 'Learning How to Learn'](https://www.coursera.org/learn/learning-how-to-learn/home) for fun as well. Taught by Dr. Barbara Oakley of 'A Mind for Numbers' fame and Dr. Terrence Sejnowski of the Salk Institute, the idea is to learn better strategies for learning. In retrospect I should have taken this before beginning Bloc to turn me into a supersponge of knowledge.

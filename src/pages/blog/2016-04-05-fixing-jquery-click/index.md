@@ -1,7 +1,8 @@
 ---
-path: "/fixing-jquery-click"
+path: "/blog/fixing-jquery-click"
 date: "2016-04-05T17:12:33.962Z"
 title: "Fixing jQuery Click"
+type: "blog"
 ---
 
 ## New Update

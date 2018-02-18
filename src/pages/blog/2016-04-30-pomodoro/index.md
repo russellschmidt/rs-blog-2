@@ -1,7 +1,8 @@
 ---
-path: "/pomodoro"
+path: "/blog/pomodoro"
 date: "2016-04-30T04:12:33.962Z"
 title: "Pomodoro"
+type: "blog"
 ---
 
 Funny enough, I am taking this Coursera course on learning to learn at the same time that I am about to make an Angular app that is a Pomodoro timer. The stars are aligned.

@@ -1,7 +1,8 @@
 ---
-path: "/rubyism"
+path: "/blog/rubyism"
 date: "2016-10-13T17:12:33.962Z"
 title: "Rubyism"
+type: "blog"
 ---
 
 Some new methods I have learned about in the Object model have caught my eye today. They are a pair of getter and setter methods called `instance_variable_set()` and `instance_variable_get()` that at first struck me as odd.

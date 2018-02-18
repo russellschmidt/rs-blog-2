@@ -1,7 +1,8 @@
 ---
-path: "/css-grid"
+path: "/blog/css-grid"
 date: "2018-01-19T17:12:33.962Z"
 title: "CSS Grid"
+type: "blog"
 ---
 
 ## Design Websites Like iOS

@@ -1,7 +1,8 @@
 ---
-path: "/troubleshooting-with-rails"
+path: "/blog/troubleshooting-with-rails"
 date: "2015-12-11T17:12:33.962Z"
 title: "Troubleshooting with Rails"
+type: "blog"
 ---
 
 ## Troubleshooting with Rails.logger.info

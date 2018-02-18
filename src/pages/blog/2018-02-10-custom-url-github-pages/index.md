@@ -1,7 +1,8 @@
 ---
-path: "/custom-url-github-pages"
+path: "/blog/custom-url-github-pages"
 date: "2018-02-10T11:30:12.962Z"
 title: "Custom URL with Github Pages and Gatsby"
+type: "blog"
 ---
 
 Are you screaming in silence every time you deploy your Gatsby blog because your custom URL has to be manually reset in Github Pages?

@@ -1,7 +1,8 @@
 ---
-path: "/escaping-double-curlies"
+path: "/blog/escaping-double-curlies"
 date: "2016-04-21T17:12:33.962Z"
 title: "Escaping Double Curlies"
+type: "blog"
 ---
 
 Just lost an hour of my life trying to output double curly brackets from a Jekyll blog post in markdown to my blog. Angular relies on double curlies. Go uses double curlies. Liquid uses double curlies. Jekyll uses double curlies. I want to show my double curlies.

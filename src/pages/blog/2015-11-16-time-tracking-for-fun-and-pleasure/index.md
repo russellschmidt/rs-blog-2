@@ -1,7 +1,8 @@
 ---
-path: "/time-tracking-for-fun-and-pleasure"
+path: "/blog/time-tracking-for-fun-and-pleasure"
 date: "2015-11-16T17:12:33.962Z"
 title: "Time Tracking for Fun and Pleasure"
+type: "blog"
 ---
 
 ## Time tracking for fun and pleasure

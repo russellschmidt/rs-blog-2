@@ -1,7 +1,8 @@
 ---
-path: "/angular-intro"
+path: "/blog/angular-intro"
 date: "2016-03-29T17:12:33.962Z"
 title: "Angular Intro"
+type: "blog"
 ---
 
 I took a couple of online classes in Angular but this is the big day. Angular becomes an assignment. I am excited because (a) I am a trendy sheep just doing whatever the cool kids say to do and (b) I have heard a lot about Angular and am very curious about the advantages of using it. I enjoyed using it within the tutorial but did not start drooling over it. That said, I really wanted to come out of the Bloc program being able to make a snazzy, performant Single Page Application (SPA) - you know, some cool website that doesn't need to refresh or open other pages? Car companies love them for specific models, and personal portfolios and startups often have them. They deliver a great near-native mobile experience and I have a need for speed. ![Maverick knows whats up](http://cdn.quotesgram.com/small/22/99/1666096374-i-feel-the-need-the-need-for-speed-quote-1.jpg)

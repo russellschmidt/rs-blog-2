@@ -1,7 +1,8 @@
 ---
-path: "/HAML-HTML-and-Buttons"
+path: "/blog/HAML-HTML-and-Buttons"
 date: "2015-11-13T17:12:33.962Z"
 title: "HAML, HTML and Buttons"
+type: "blog"
 ---
 
 ## HAML, HTML and Buttons

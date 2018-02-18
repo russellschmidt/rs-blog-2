@@ -7,7 +7,7 @@ export default function Template({
   const post = data.markdownRemark;
   return (
     <div className="blog-post-container">
-     <Helmet title={`rusl.io - ${post.frontmatter.title}`} />
+      <Helmet title={`rusl.io - ${post.frontmatter.title}`} />
       <div className="blog-post">
         <h1>{post.frontmatter.title}</h1>
         <div
@@ -27,6 +27,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        type
       }
     }
   }

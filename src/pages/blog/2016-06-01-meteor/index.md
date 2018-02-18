@@ -1,7 +1,8 @@
 ---
-path: "/meteor"
+path: "/blog/meteor"
 date: "2016-06-01T17:12:33.962Z"
 title: "Meteor"
+type: "blog"
 ---
 
 ## Meteor it is.

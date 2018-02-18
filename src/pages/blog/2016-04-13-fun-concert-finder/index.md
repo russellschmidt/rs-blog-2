@@ -1,7 +1,8 @@
 ---
-path: "/fun-concert-finder"
+path: "/blog/fun-concert-finder"
 date: "2016-04-13T17:12:33.962Z"
 title: "Fun Concert Finder"
+type: "blog"
 ---
 
 # The making of FunConcertFinder

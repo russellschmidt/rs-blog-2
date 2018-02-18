@@ -1,7 +1,8 @@
 ---
-path: "/ruby-method-missing"
+path: "/blog/ruby-method-missing"
 date: "2016-10-17T17:12:33.962Z"
 title: "Ruby Method Mising"
+type: "blog"
 ---
 
 A little innocuous method `method_missing` snuck into a problem in my Bloc Software Engineering homework. Oh you know, just implement `method_missing` for a find() method in our ActiveRecord-ish ORM experiment. I was referred to [this link](http://rubylearning.com/satishtalim/ruby_method_missing.html) which is a nice, concise explanation.

@@ -1,7 +1,8 @@
 ---
-path: "/ngbands-make-her-dance"
+path: "/blog/ngbands-make-her-dance"
 date: "2016-03-31T17:12:33.962Z"
 title: "ngBands Make Her Dance"
+type: "blog"
 ---
 
 ## Pull the trigger until it goes ngClick

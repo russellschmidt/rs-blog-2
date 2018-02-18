@@ -1,7 +1,8 @@
 ---
-path: "/event-delegation"
+path: "/blog/event-delegation"
 date: "2016-05-03T17:12:33.962Z"
 title: "Event Delegation"
+type: "blog"
 ---
 
 We are going to finally totally fix my carousel. I detailed the original issue [in this blog post a month ago](http://www.russellschmidt.net/jquery/click/javascript/portfolio/2016/04/05/Fixing-jQuery-Click.html).

@@ -1,7 +1,8 @@
 ---
-path: "/memory-makin"
+path: "/blog/memory-makin"
 date: "2016-05-14T17:12:33.962Z"
 title: "Memory Makin"
+type: "blog"
 ---
 
 Visual and spacial memory combine to form a brain strength for humans. We can go to a home for the first time and recall details even weeks later with thousands of data points. If we are a teenager, we can sniff out booze and psychoactive prescription medicine in minutes. So, it makes sense to try and tap into this amazing ancient skill we evolved through eons of wandering through forests and jungles.

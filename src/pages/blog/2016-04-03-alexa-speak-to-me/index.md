@@ -1,7 +1,8 @@
 ---
-path: "/alexa-speak-to-me"
+path: "/blog/alexa-speak-to-me"
 date: "2016-04-03T17:12:33.962Z"
 title: "Alexa Speak to Me"
+type: "blog"
 ---
 
 # Creating a Skill for the Amazon Echo family

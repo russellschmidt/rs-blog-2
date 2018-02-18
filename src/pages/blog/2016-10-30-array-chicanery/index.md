@@ -1,7 +1,8 @@
 ---
-path: "/array-chicanery"
+path: "/blog/array-chicanery"
 date: "2016-10-18T17:12:33.962Z"
 title: "Array Chicanery"
+type: "blog"
 ---
 
 ### Ruby's Sweet Sugar

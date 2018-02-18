@@ -1,7 +1,8 @@
 ---
-path: "/pomodoro-timer"
+path: "/blog/pomodoro-timer"
 date: "2016-05-06T17:12:33.962Z"
 title: "Pomodoro Timer"
+type: "blog"
 ---
 
 It's ALIVE! Just click Dr Frankenstein over there to experience the majesty of my Pomodoro Timer. <a href="http://pomodoro-timer-rs.herokuapp.com/" rel="ITS ALIVE (Pomodoro app link)" target="_blank">![Gene Wilder as Frankenstein](http://graphiccon.com/wp-content/uploads/2016/01/its-alive-1200x475.jpg)</a>

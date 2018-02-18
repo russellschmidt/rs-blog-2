@@ -1,7 +1,8 @@
 ---
-path: "/angular-directives"
+path: "/blog/angular-directives"
 date: "2016-04-25T17:12:33.962Z"
 title: "Angular Directives"
+type: "blog"
 ---
 
 Angular directives are the little snippets of Angular you put in your HTML. They call the Angular code - er, bind the functionality - in the places on the page where you want things to happen. Ive been exposed to `ngApp` which is the basic connection between HTML and the Angular code, setting the root element of the application. Then   `ngController` connects the controller to the view. `ngRepeat` allows for looping through a collection using a template. `ngClick` specifies behavior for when the user clicks an element on the page. `ngShow` shows or hides an HTML element based on an evaluated expression.

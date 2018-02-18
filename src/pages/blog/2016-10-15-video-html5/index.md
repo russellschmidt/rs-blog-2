@@ -1,7 +1,8 @@
 ---
-path: "/video-in-html5"
+path: "/blog/video-in-html5"
 date: "2016-10-15T17:12:33.962Z"
 title: "Video in HTML5"
+type: "blog"
 ---
 
 For the Climate Cents site, we wanted full screen video at the top of each individual project page. Fortunately each partner has a high quality MP4 for us to use, so the hardest part - making the video - was already done for us.  All that remained was getting it on the site.

@@ -1,7 +1,8 @@
 ---
-path: "/services-with-angular"
+path: "/blog/services-with-angular"
 date: "2016-04-21T17:12:33.962Z"
 title: "Services with Angular"
+type: "blog"
 ---
 
 After a couple of weeks on the Alexa projects, I am back in Angular land. It has been a rough landing. I am having to relearn a lot of things that I would not say I knew all that well at the time I started. If I could do it over again, I would not abandon a project midway again - I would have switched to Alexa after completing Angular. To compensate, I am taking a Codecademy course on Angular at the same time that I am knee deep in the muck.

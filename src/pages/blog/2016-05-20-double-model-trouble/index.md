@@ -1,7 +1,8 @@
 ---
-path: "/double-model-trouble"
+path: "/blog/double-model-trouble"
 date: "2016-05-20T17:12:33.962Z"
 title: "Double Model Trouble"
+type: "blog"
 ---
 
 Want to attach a photo to a model? No problem. Pop the [Paperclip](https://github.com/thoughtbot/paperclip) gem into your project and rock out on the million tutorials for this. I actually really like the tutorial on building a Pinterest clone on [One Month Rails](https://onemonth.com/courses/one-month-rails/curriculum) if you want a step by step introduction to setting up Devise and Paperclip. It is not a free tutorial, and I am not getting paid to talk about it. Just a casual fan here. [Here is a free Paperclip tutorial](https://richonrails.com/articles/getting-started-with-paperclip) I liked a lot also. It fills in a couple of details that the Github documentation leaves out.

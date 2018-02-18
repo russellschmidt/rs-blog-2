@@ -1,7 +1,8 @@
 ---
-path: "/template-of-late"
+path: "/blog/template-of-late"
 date: "2016-03-31T17:12:33.962Z"
 title: "Template of Late"
+type: "blog"
 ---
 
 Learned a bit today about **imperative** versus **declarative** view manipulation. In general, jQuery is an aftermarket bolt-on while Angular is a new chassis. Aftermarket parts can be awesome - and jQuery is incredibly useful and great - but it is a totally different approach. I had thought I would sprinkle some Angular on my existing sites until I poked around and saw that Angular begs for a rewrite. It is an opinionated framework like Rails, and the first step is taking that trust fall and doing everything their way.

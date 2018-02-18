@@ -1,7 +1,8 @@
 ---
-path: "/procrastination"
+path: "/blog/procrastination"
 date: "2016-05-10T17:12:33.962Z"
 title: "Procrastination"
+type: "blog"
 ---
 
 ### Tackling Procrastination

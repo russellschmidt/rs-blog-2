@@ -1,7 +1,8 @@
 ---
-path: "/grunting-gulping-nodes"
+path: "/blog/grunting-gulping-nodes"
 date: "2016-03-29T17:12:33.962Z"
 title: "Grunting Gulping Nodes"
+type: "blog"
 ---
 
 We are going to turn my BlocJams application up to 11! Rock and Roll! Angular! ![Rocking Granny](http://cdn.twentytwowords.com/wp-content/uploads/Old-woman-playing-guitar.jpg) so let's get this party started! _Angular party is the best party/ because I like to party._ -Eminem.

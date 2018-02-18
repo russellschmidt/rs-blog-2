@@ -1,7 +1,8 @@
 ---
-path: "/holes-in-your-zapatos"
+path: "/blog/holes-in-your-zapatos"
 date: "2015-12-09T17:12:33.962Z"
 title: "Holes in Your Zapatos"
+type: "blog"
 ---
 
 ## Holes in Your Zapatos

@@ -1,7 +1,8 @@
 ---
-path: "/angular-services-3"
+path: "/blog/angular-services-3"
 date: "2016-04-22T17:12:33.962Z"
 title: "Angular Services 3"
+type: "blog"
 ---
 
 Been about 4 hours of Angular today which is not enough. I want to get two checkpoints done before I head out for a little fun tonight and that means...

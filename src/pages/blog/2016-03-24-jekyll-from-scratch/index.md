@@ -1,7 +1,8 @@
 ---
-path: "/jekyll-from-scratch"
+path: "/blog/jekyll-from-scratch"
 date: "2016-03-24T17:12:33.962Z"
 title: "Jekyll From Scratch"
+type: "blog"
 ---
 
 I was turned onto [Jekyll](https://jekyllrb.com/) by my Bloc mentorship, where they suggested we students use it for our portfolios and then upload to Github Pages. I was a little apprehensive at first about my brain exploding from learning a new framework, but had grown to love markdown and Byword for my blog v1.0 (written in PHP).

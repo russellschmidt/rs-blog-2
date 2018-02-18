@@ -1,7 +1,8 @@
 ---
-path: "/angular-services-2"
+path: "/blog/angular-services-2"
 date: "2016-04-22T17:12:33.962Z"
 title: "Angular Services 2"
+type: "blog"
 ---
 
 As I march through the services swamp in Angular, I am picking up some information that may or may not be of help to anyone, but that I want to commit to written form.

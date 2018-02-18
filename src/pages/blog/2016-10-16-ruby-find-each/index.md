@@ -1,7 +1,8 @@
 ---
-path: "/my-own-find-each"
+path: "/blog/my-own-find-each"
 date: "2016-10-16T11:12:33.962Z"
 title: "My Own Find Each"
+type: "blog"
 ---
 
 One of my current assignments from Bloc is implementing my very own `find_each` function. One of the beauties of Ruby is the ease at which you can iterate over collections.

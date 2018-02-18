@@ -1,7 +1,8 @@
 ---
-path: "/climate-cents-v101"
+path: "/blog/climate-cents-v101"
 date: "2017-10-13T17:12:33.962Z"
 title: "Climate Cents v1.0.1"
+type: "blog"
 ---
 
 ### Climate Cents 1.0.1

@@ -1,7 +1,8 @@
 ---
-path: "/climate-cents"
+path: "/blog/climate-cents"
 date: "2016-03-22T17:12:33.962Z"
 title: "Climate Cents"
+type: "blog"
 ---
 
 After doing a bit of pro bono web work and informal consulting for a friend's startup, it looks like I will get a chance to develop a site from scratch. While I certainly feel like a complete imposter during our meetings, I have been upfront about my experiences to date, and find that my decade of experience  running of a company turns out to be a sort of general asset in an advisory role.

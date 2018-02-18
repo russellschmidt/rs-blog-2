@@ -1,7 +1,8 @@
 ---
-path: "/new-view-for-cc"
+path: "/blog/new-view-for-cc"
 date: "2015-11-13T17:12:33.962Z"
 title: "New View for CC"
+type: "blog"
 ---
 
 From my last blog post we saw that I had a lot of work left on this project.

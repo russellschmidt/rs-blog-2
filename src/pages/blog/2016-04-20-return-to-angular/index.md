@@ -1,7 +1,8 @@
 ---
-path: "/return-to-angular"
+path: "/blog/return-to-angular"
 date: "2016-04-20T04:20:00.962Z"
 title: "Return to Angular"
+type: "blog"
 ---
 
 This post is more appropriate for me and not you. Unless you, like me, are learning Angular and want all the pieces to fit in your brain.

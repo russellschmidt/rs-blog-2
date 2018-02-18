@@ -1,7 +1,8 @@
 ---
-path: "/backticks"
+path: "/blog/backticks"
 date: "2018-02-09T17:12:33.962Z"
 title: "Gatsby Backticks"
+type: "blog"
 ---
 
 So the blog was up and then I was having all sorts of errors. Note that the links are for your edification but ultimately did not help me.

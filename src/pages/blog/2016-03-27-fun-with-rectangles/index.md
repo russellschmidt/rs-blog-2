@@ -1,7 +1,8 @@
 ---
-path: "/fun-with-rectangles"
+path: "/blog/fun-with-rectangles"
 date: "2016-03-27T17:12:33.962Z"
 title: "Fun With Rectangles"
+type: "blog"
 ---
 
 Inspired by this gentleman's [really cool portfolio](http://www.tim-kaufmann.net/) that reminded me of the artist [Joseph Beuys](https://en.wikipedia.org/wiki/Joseph_Beuys), I decided that the finishing touch on my portfolio would be a dynamic mouse cursor that changes to left or right based upon the mouse position when hovering over the main project image. Then with a click, you advance or retreat on the slideshow.

@@ -1,7 +1,8 @@
 ---
-path: "/mushin-no-shin"
+path: "/blog/mushin-no-shin"
 date: "2016-03-01T17:12:33.962Z"
 title: "Mushin No Shin"
+type: "blog"
 ---
 
 ### Mushin No Shin

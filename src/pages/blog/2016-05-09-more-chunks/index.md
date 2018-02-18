@@ -1,7 +1,8 @@
 ---
-path: "/and-more-chunking"
+path: "/blog/and-more-chunking"
 date: "2016-05-09T17:12:33.962Z"
 title: "And More Chunking"
+type: "blog"
 ---
 
 ### Learning is Easy

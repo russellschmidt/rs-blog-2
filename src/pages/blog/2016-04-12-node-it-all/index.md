@@ -1,7 +1,8 @@
 ---
-path: "/node-it-all"
+path: "/blog/node-it-all"
 date: "2016-04-12T17:12:33.962Z"
 title: "Node it All"
+type: "blog"
 ---
 
 Today is a big day. The day I start writing my very own Skill without really relying too much on the existing Amazon examples. To do so involves downloading and running Node.js.

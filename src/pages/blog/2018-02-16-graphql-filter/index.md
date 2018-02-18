@@ -1,5 +1,8 @@
 ---
-
+path: "/blog/graphql-filter"
+date: "2018-02-16T11:15:12.962Z"
+title: "Graph QL"
+type: "blog"
 ---
 
 So the tutorials I used to teach myself a bit about Gatsby have assumed a single source for your blog posts and a structure that has your homepage serve as the "index" in RESTful terms, listing links to all of your blog posts. unfortunately, I want my site to have both portfolio and blog post links to start and I think the separation is important.

@@ -1,6 +1,14 @@
 import React from "react";
 import Link from "gatsby-link";
 import Helmet from "react-helmet";
+import g from "glamorous";
+import { css } from "glamor";
+
+const portfolioLinkStyle = css({
+  textDecoration: `none`,
+  color: `#ccc`,
+  "&:hover": {color: `#fff`}
+});
 
 export default function Index({ data }) {
   const { edges: posts } = data.allMarkdownRemark;
@@ -13,7 +21,8 @@ export default function Index({ data }) {
           return (
             <div className="blog-post-preview" key={post.id}>
               <h1>
-                <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
+                <Link className={portfolioLinkStyle}
+                  to={post.frontmatter.path}>{post.frontmatter.title}</Link>
               </h1>
               <h2>{post.frontmatter.date}</h2>
               <p>{post.excerpt}</p>

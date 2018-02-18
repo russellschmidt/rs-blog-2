@@ -1,7 +1,8 @@
 ---
-path: "/a-milli"
+path: "/blog/a-milli"
 date: "2018-02-10T10:15:12.962Z"
 title: "A Milli"
+type: "blog"
 ---
 
 Once I got the basic blog working and figured out the two issues with the backticks and then an error in the time signatures on old blog posts, I fired up a `yarn develop` and nothing but errors. I don't know what happened but I was too frustrated and tired on a Friday night to troubleshoot after manually updating 80 blog posts. So I watched two episodes of Altered Carbon.

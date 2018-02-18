@@ -1,7 +1,8 @@
 ---
-path: "/javascript-fun"
+path: "/blog/javascript-fun"
 date: "2016-03-20T17:12:33.962Z"
 title: "JavaScript Fun"
+type: "blog"
 ---
 
 My JavaScript journey is well underway, with my personal portfolio finally going up. I poured out some Hennessey for my PHP-based site and the various PHP projects I had on there.

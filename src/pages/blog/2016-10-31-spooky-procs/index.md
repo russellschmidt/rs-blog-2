@@ -1,7 +1,8 @@
 ---
-path: "/spooky-procs"
+path: "/blog/spooky-procs"
 date: "2017-10-31T17:12:33.962Z"
 title: "Spooky Procs"
+type: "blog"
 ---
 
 ### Spooky Procs

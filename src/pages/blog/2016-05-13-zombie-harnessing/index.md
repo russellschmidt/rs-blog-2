@@ -1,7 +1,8 @@
 ---
-path: "/zombie-harnessing"
+path: "/blog/zombie-harnessing"
 date: "2016-05-13T17:12:33.962Z"
 title: "Zombie Harnessing"
+type: "blog"
 ---
 
 Apropos to this course on learning how to learn, I learned that drawing things can help people remember.

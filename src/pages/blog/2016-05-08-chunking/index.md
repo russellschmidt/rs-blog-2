@@ -1,7 +1,8 @@
 ---
-path: "/chunking"
+path: "/blog/chunking"
 date: "2016-05-08T17:12:33.962Z"
 title: "Chunking"
+type: "blog"
 ---
 
 Week Two of my pretty interesting Coursera course is about "chunks" and not this kind ![Truffle Shuffle Goonie Chunk](https://metrouk2.files.wordpress.com/2016/03/chunk_before.jpg). The chunks of which we speak are shorthand for small packages of information our minds can easily access. You can [Follow the Learning How To Learn class on Twitter](https://twitter.com/lhtl_mooc) and [Like them on Facebook](https://www.facebook.com/LHTOL).

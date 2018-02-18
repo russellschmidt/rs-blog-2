@@ -1,7 +1,8 @@
 ---
-path: "/animate-and-shopify"
+path: "/blog/animate-and-shopify"
 date: "2018-01-13T17:12:33.962Z"
 title: "Animate and Shopify"
+type: "blog"
 ---
 
 ## How to create an animation in Adobe Creative Cloud 2018
