@@ -19,13 +19,14 @@ export default ({ children }) => (
   <g.Body
     color={`#ccc`}
     background={`#333`}
-    height={`100vh`}
-    background={`#4b4b4b`}
-    background={`-moz-linear-gradient(top, #4b4b4b 0%, #000000 50%)`}
-    background={`-webkit-linear-gradient(top, #4b4b4b 0%,#000000 50%)`}
-    background={`-o-linear-gradient(top, #4b4b4b 0%,#000000 50%)`}
-    background={`linear-gradient(to bottom, #4b4b4b 0%,#000000 50%)`}
-    filter={`progid:DXImageTransform.Microsoft.gradient( startColorstr='#4b4b4b', endColorstr='#000000',GradientType=0 )`}
+    minHeight={`100vh`}
+    height={`100%`}
+    background={`#000000`}
+    background={`-moz-linear-gradient(top, #000000 0%, #4b4b4b 200%)`}
+    background={`-webkit-linear-gradient(top, #000000 0%,#4b4b4b 200%)`}
+    background={`-o-linear-gradient(top, #000000 0%,#4b4b4b 200%)`}
+    background={`linear-gradient(to bottom, #000000 0%,#4b4b4b 200%)`}
+    filter={`progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#4b4b4b',GradientType=0 )`}
   >
     <Helmet
       title="rusl.io: Russell Schmidt's Portfolio and Blog"
