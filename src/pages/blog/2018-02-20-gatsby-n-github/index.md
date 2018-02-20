@@ -1,7 +1,7 @@
 ---
 path: "/blog/gatsby-github"
 date: "2018-02-20T12:33:33.962Z"
-title: "Gatsby'n'Gitby"
+title: "Gatsby'n'Githubby"
 type: "blog"
 ---
 
