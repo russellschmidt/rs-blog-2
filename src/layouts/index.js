@@ -49,7 +49,7 @@ export default ({ children }) => (
           fontStyle={`normal`}
           color={`#dd0`}
         >
-          rusl.io
+          russellschmidt.net
         </g.H3>
       </Link>
       <Link className={linkStyle} to={`/contact/`}>

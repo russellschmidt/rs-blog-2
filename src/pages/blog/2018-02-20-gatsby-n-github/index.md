@@ -56,7 +56,7 @@ There is an implicit push to 'origin' branch so ya gotta rename the repos in the
 
 If you look at the github page for the repos, the production repo should be in the right place. Now, replace that f'd up dev repo. Mind you this is not something you should do all the time but good to know, as it is destructive and goes against everything git is about in the sense of gradualism, incrementalism, caution.
 
-`$ git push origin dev -f`
+`$ git push dev master -f`
 The -f flag *forces* the change, so it wipes out the production build on your dev side. You should be good to go now.
 
 
