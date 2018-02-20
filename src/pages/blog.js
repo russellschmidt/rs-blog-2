@@ -4,31 +4,56 @@ import Helmet from "react-helmet";
 import g from "glamorous";
 import { css } from "glamor";
 
+const blogPostsFlexbox = css({
+  display: `flex`,
+  flexFlow: `row wrap`,
+  width: `100%`,
+  justifyContent: `space-around`,
+});
+
+const blogPostPreview = css({
+  width: `32%`,
+  padding: `20px`,
+  minWidth: 320,
+  margin: `0 auto`,
+});
+
+const blogPostTitle = css({
+
+});
+
 const blogLinkStyle = css({
   textDecoration: `none`,
   color: `#ccc`,
   "&:hover": {color: `#fff`}
 });
 
+const blogPostDate = css({
+
+});
+
 export default function Index({ data }) {
   const { edges: posts } = data.allMarkdownRemark;
   return (
-    <div className="blog-posts">
+    <div>
       <Helmet title={`Blog posts: rusl.io & Russell Schmidt`} />
+      <div className={blogPostsFlexbox}>
       {posts
         .filter(post => post.node.frontmatter.title.length > 0)
         .map(({ node: post }) => {
           return (
-            <div className="blog-post-preview" key={post.id}>
-              <h1>
-                <Link className={blogLinkStyle}
-                  to={post.frontmatter.path}>{post.frontmatter.title}</Link>
+            <div className={blogPostPreview} key={post.id}>
+              <h1 className={blogPostTitle}>
+                <Link className={blogLinkStyle} to={post.frontmatter.path}>
+                  {post.frontmatter.title}
+                </Link>
               </h1>
-              <h2>{post.frontmatter.date}</h2>
+              <h2 className={blogPostDate}>{post.frontmatter.date}</h2>
               <p>{post.excerpt}</p>
             </div>
           );
         })}
+      </div>
     </div>
   );
 }

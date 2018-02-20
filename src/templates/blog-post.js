@@ -1,20 +1,48 @@
 import React from "react";
 import Helmet from "react-helmet";
+import g from "glamorous";
+import { css } from "glamor";
+
+import { rhythm } from "../utils/typography";
+
+const blogPost = css({
+
+});
+
+const blogPostTitle = css({
+
+});
+
+const blogPostDate = css({
+
+});
+
+const blogPostContent = css({
+
+});
 
 export default function Template({
   data
 }) {
   const post = data.markdownRemark;
   return (
-    <div className="blog-post-container">
-      <Helmet title={`rusl.io - ${post.frontmatter.title}`} />
-      <div className="blog-post">
-        <h1>{post.frontmatter.title}</h1>
-        <div
-          className="blog-post-content"
-          dangerouslySetInnerHTML={{ __html: post.html }}
-        />
-      </div>
+    <div>
+      <Helmet title={`${post.frontmatter.title}`} />
+
+        <article>
+
+          <header>
+            <h1 className={blogPostTitle}>{post.frontmatter.title}</h1>
+            <h2 className={blogPostDate}>{post.frontmatter.date}</h2>
+          </header>
+          <section>
+            <div
+              className={blogPostContent}
+              dangerouslySetInnerHTML={{ __html: post.html }}
+            />
+          </section>
+        </article>
+
     </div>
   );
 }
