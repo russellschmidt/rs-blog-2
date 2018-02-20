@@ -31,3 +31,33 @@ Well let's ruin all of that.
 `$ git remote add prod https://github.com/russellschmidt/russellschmidt.github.io.git`
 
 Now run `$ git remote -v` and see if you get two repos. You should have two repos, each listed twice (once each for fetch and push respectively).
+
+### Get gh-pages
+You want an easy deploy, gh-pages can help you.
+
+`$ yarn install --dev gh-pages`
+
+Then you want to edit your `package.json` to create a new command `deploy` that encompasses a build and a push to github.
+
+I am using a custom domain so I use this variant under "dependencies"
+`$     "deploy": "gatsby build && gh-pages -d public -b master"`
+
+If you are using a subdomain, [learn more here](https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/), as there is a slight different and an extra step.
+
+Do the git dance, `$ git push origin master` and `$ yarn run deploy`.
+
+### Failure and Success
+Annnnd this will fail. You just pushed production to dev ("origin"). Sorry to write this in the order I f'd up but them's the breaks kid.
+
+There is an implicit push to 'origin' branch so ya gotta rename the repos in the CLI.
+`$ git remote rename origin dev`
+`$ git remote rename prod dev`
+`$ yarn run deploy`
+
+If you look at the github page for the repos, the production repo should be in the right place. Now, replace that f'd up dev repo. Mind you this is not something you should do all the time but good to know, as it is destructive and goes against everything git is about in the sense of gradualism, incrementalism, caution.
+
+`$ git push origin dev -f`
+The -f flag *forces* the change, so it wipes out the production build on your dev side. You should be good to go now.
+
+
+

@@ -1,4 +1,4 @@
-# rusl.io
+# russellschmidt.net
 Based on the bare bones Gatsby scaffolding.
 
 Russell Schmidt's portfolio and blog.

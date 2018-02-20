@@ -14,7 +14,7 @@ export default function Index({ data }) {
   const { edges: posts } = data.allMarkdownRemark;
   return (
     <div className="blog-posts">
-      <Helmet title={`Portfolio Projects: rusl.io & Russell Schmidt`} />
+      <Helmet title={`Portfolio Projects: Russell Schmidt`} />
       {posts
         .filter(post => post.node.frontmatter.title.length > 0)
         .map(({ node: post }) => {

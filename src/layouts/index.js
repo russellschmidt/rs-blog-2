@@ -29,7 +29,7 @@ export default ({ children }) => (
     filter={`progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#4b4b4b',GradientType=0 )`}
   >
     <Helmet
-      title="rusl.io: Russell Schmidt's Portfolio and Blog"
+      title="russellschmidt.net: Russell Schmidt's Portfolio and Blog"
       meta={[
         { name: "description", content: "This is the blog and app portfolio website for Russell Schmidt, a Los Angeles-based developer." },
         { name: "keywords", content: "developer, Russell Schmidt, Los Angeles, React, Ruby on Rails, JavaScript, jQuery, HTML, CSS, SASS, JS, Gatsby, Node, Yarn, Webpack, NPM, web app, React Native, mobile app" }

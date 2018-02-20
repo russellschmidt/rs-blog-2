@@ -36,7 +36,7 @@ export default function Index({ data }) {
   const { edges: posts } = data.allMarkdownRemark;
   return (
     <div>
-      <Helmet title={`Blog posts: rusl.io & Russell Schmidt`} />
+      <Helmet title={`Blog posts: Russell Schmidt`} />
       <div className={blogPostsFlexbox}>
       {posts
         .filter(post => post.node.frontmatter.title.length > 0)
