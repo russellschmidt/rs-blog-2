@@ -1,5 +1,5 @@
 ---
-path: "/blog/number-one-restaurant"
+path: "/blog/number-one-restaurant/"
 date: "2018-01-26T17:12:33.962Z"
 title: "No.1 Restaurant in London"
 type: "blog"

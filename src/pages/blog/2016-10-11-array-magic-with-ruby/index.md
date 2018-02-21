@@ -1,5 +1,5 @@
 ---
-path: "/blog/array-magic"
+path: "/blog/array-magic/"
 date: "2016-10-11T17:12:33.962Z"
 title: "Array Magic"
 type: "blog"

@@ -1,5 +1,5 @@
 ---
-path: "/blog/my-own-find-each"
+path: "/blog/my-own-find-each/"
 date: "2016-10-16T11:12:33.962Z"
 title: "My Own Find Each"
 type: "blog"

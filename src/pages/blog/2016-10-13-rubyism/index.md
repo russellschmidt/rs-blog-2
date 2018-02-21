@@ -1,5 +1,5 @@
 ---
-path: "/blog/rubyism"
+path: "/blog/rubyism/"
 date: "2016-10-13T17:12:33.962Z"
 title: "Rubyism"
 type: "blog"

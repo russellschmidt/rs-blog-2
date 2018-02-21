@@ -1,5 +1,5 @@
 ---
-path: "/blog/heap-delete"
+path: "/blog/heap-delete/"
 date: "2016-08-25T17:12:33.962Z"
 title: "Heap Delete"
 type: "blog"

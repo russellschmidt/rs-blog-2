@@ -1,5 +1,5 @@
 ---
-path: "/blog/backticks"
+path: "/blog/backticks/"
 date: "2018-02-09T17:12:33.962Z"
 title: "Gatsby Backticks"
 type: "blog"

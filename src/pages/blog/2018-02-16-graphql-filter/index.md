@@ -1,5 +1,5 @@
 ---
-path: "/blog/graphql-filter"
+path: "/blog/graphql-filter/"
 date: "2018-02-16T11:15:12.962Z"
 title: "Graph QL"
 type: "blog"

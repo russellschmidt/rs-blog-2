@@ -1,5 +1,5 @@
 ---
-path: "/blog/my-first-animation"
+path: "/blog/my-first-animation/"
 date: "2018-01-11T17:12:33.962Z"
 title: "My First Animation"
 type: "blog"

@@ -1,5 +1,5 @@
 ---
-path: "/blog/hello-world"
+path: "/blog/hello-world/"
 date: "2018-01-28T17:12:33.962Z"
 title: "Gatsby Post No.1"
 type: "blog"

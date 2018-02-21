@@ -1,5 +1,5 @@
 ---
-path: "/blog/video-in-html5"
+path: "/blog/video-in-html5/"
 date: "2016-10-15T17:12:33.962Z"
 title: "Video in HTML5"
 type: "blog"

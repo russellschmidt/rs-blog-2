@@ -1,5 +1,5 @@
 ---
-path: "/blog/ruby-method-missing"
+path: "/blog/ruby-method-missing/"
 date: "2016-10-17T17:12:33.962Z"
 title: "Ruby Method Mising"
 type: "blog"

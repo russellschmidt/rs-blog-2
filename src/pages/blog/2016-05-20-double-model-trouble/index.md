@@ -1,5 +1,5 @@
 ---
-path: "/blog/double-model-trouble"
+path: "/blog/double-model-trouble/"
 date: "2016-05-20T17:12:33.962Z"
 title: "Double Model Trouble"
 type: "blog"

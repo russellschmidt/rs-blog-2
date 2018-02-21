@@ -1,5 +1,5 @@
 ---
-path: "/blog/radiohead-videotape"
+path: "/blog/radiohead-videotape/"
 date: "2018-01-12T17:12:33.962Z"
 title: "Radiohead Videotape"
 type: "blog"

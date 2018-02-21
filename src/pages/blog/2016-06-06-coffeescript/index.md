@@ -1,5 +1,5 @@
 ---
-path: "/blog/coffeescript"
+path: "/blog/coffeescript/"
 date: "2016-06-06T17:12:33.962Z"
 title: "CoffeeScript"
 type: "blog"

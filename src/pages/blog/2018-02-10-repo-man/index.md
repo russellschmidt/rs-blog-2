@@ -1,5 +1,5 @@
 ---
-path: "/blog/repo-man"
+path: "/blog/repo-man/"
 date: "2018-02-10T11:15:12.962Z"
 title: "Repo Man"
 type: "blog"

@@ -17,7 +17,7 @@ const linkStyle = css({
 
 
 export default ({ children }) => (
-  <g.Body
+  <g.Div
     color={`#ccc`}
     background={`#333`}
     minHeight={`100vh`}
@@ -69,5 +69,5 @@ export default ({ children }) => (
 
       {children()}
     </g.Div>
-  </g.Body>
+  </g.Div>
 );

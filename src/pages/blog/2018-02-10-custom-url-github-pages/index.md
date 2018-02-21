@@ -1,5 +1,5 @@
 ---
-path: "/blog/custom-url-github-pages"
+path: "/blog/custom-url-github-pages/"
 date: "2018-02-10T11:30:12.962Z"
 title: "Custom URL with Github Pages and Gatsby"
 type: "blog"

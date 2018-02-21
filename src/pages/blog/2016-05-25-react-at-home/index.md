@@ -1,5 +1,5 @@
 ---
-path: "/blog/react-at-home"
+path: "/blog/react-at-home/"
 date: "2016-05-26T17:12:33.962Z"
 title: "React At Home"
 type: "blog"
