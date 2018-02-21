@@ -1,9 +1,9 @@
 import React from "react";
 import Helmet from "react-helmet";
+import Link from 'gatsby-link';
 
 export default () => (
   <div>
-    <h1>Web Design</h1>
-
+    <p>Thanks for stopping by!</p>
   </div>
 );

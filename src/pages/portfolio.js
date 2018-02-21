@@ -13,18 +13,19 @@ const portfolioLinkStyle = css({
 export default function Index({ data }) {
   const { edges: posts } = data.allMarkdownRemark;
   return (
-    <div className="blog-posts">
+    <div>
+      <h1>Portfolio</h1>
       <Helmet title={`Portfolio Projects: Russell Schmidt`} />
       {posts
         .filter(post => post.node.frontmatter.title.length > 0)
         .map(({ node: post }) => {
           return (
-            <div className="blog-post-preview" key={post.id}>
-              <h1>
+            <div key={post.id}>
+              <h3>
                 <Link className={portfolioLinkStyle}
                   to={post.frontmatter.path}>{post.frontmatter.title}</Link>
-              </h1>
-              <h2>{post.frontmatter.date}</h2>
+              </h3>
+              <h4>{post.frontmatter.date}</h4>
               <p>{post.excerpt}</p>
             </div>
           );
@@ -46,6 +47,7 @@ export const pageQuery = graphql`
             title
             date(formatString: "MMMM DD, YYYY")
             path
+            type
           }
         }
       }

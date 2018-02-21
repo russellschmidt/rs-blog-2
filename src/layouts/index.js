@@ -9,6 +9,7 @@ import { rhythm } from "../utils/typography";
 const linkStyle = css({
   float: `right`,
   textDecoration: `none`,
+  boxShadow: `none`,
   marginRight: `1rem`,
   color: `#ccc`,
   "&:hover": {color: `#fff`}
@@ -44,6 +45,7 @@ export default ({ children }) => (
     >
       <Link to={`/`}>
         <g.H3
+          marginTop={`0`}
           marginBottom={rhythm(2)}
           display={`inline-block`}
           fontStyle={`normal`}

@@ -3,6 +3,7 @@ import Link from "gatsby-link";
 import Helmet from "react-helmet";
 import g from "glamorous";
 import { css } from "glamor";
+import { rhythm } from "../utils/typography";
 
 const blogPostsFlexbox = css({
   display: `flex`,
@@ -12,14 +13,14 @@ const blogPostsFlexbox = css({
 });
 
 const blogPostPreview = css({
-  width: `32%`,
-  padding: `20px`,
-  minWidth: 320,
+  padding: `5px 10px`,
+  width: 300,
   margin: `0 auto`,
 });
 
 const blogPostTitle = css({
-
+  marginTop: rhythm(1/2),
+  marginBottom: rhythm(1/2)
 });
 
 const blogLinkStyle = css({
@@ -29,13 +30,15 @@ const blogLinkStyle = css({
 });
 
 const blogPostDate = css({
-
+  marginTop: rhythm(1/2),
+  marginBottom: rhythm(1)
 });
 
 export default function Index({ data }) {
   const { edges: posts } = data.allMarkdownRemark;
   return (
     <div>
+      <h1>Blah-Blah Me Me Me</h1>
       <Helmet title={`Blog posts: Russell Schmidt`} />
       <div className={blogPostsFlexbox}>
       {posts
@@ -44,12 +47,12 @@ export default function Index({ data }) {
           return (
             <div className={blogPostPreview} key={post.id}>
               <Link className={blogLinkStyle} to={post.frontmatter.path}>
-                <h1 className={blogPostTitle}>
+                <h3 className={blogPostTitle}>
 
                     {post.frontmatter.title}
 
-                </h1>
-                <h2 className={blogPostDate}>{post.frontmatter.date}</h2>
+                </h3>
+                <h4 className={blogPostDate}>{post.frontmatter.date}</h4>
                 <p>{post.excerpt}</p>
               </Link>
             </div>
@@ -73,6 +76,7 @@ export const pageQuery = graphql`
             title
             date(formatString: "MMMM DD, YYYY")
             path
+            type
           }
         }
       }
