@@ -7,7 +7,26 @@ import { css } from "glamor";
 const portfolioLinkStyle = css({
   textDecoration: `none`,
   color: `#ccc`,
-  "&:hover": {color: `#fff`}
+  "&:hover": {color: `#fff`},
+  display: `inline-block`,
+  height: `100%`,
+  width: `100%`
+});
+
+const flexContainer = css({
+  display: `flex`,
+  flexFlow: `row wrap`,
+  width: `100%`,
+  justifyContent: `space-around`,
+});
+
+const flexChild = css({
+  margin: `5px`,
+  padding: `5px`,
+  width: `24%`,
+  minWidth: 200,
+  height: 250,
+  background: `#222`,
 });
 
 export default function Index({ data }) {
@@ -16,20 +35,22 @@ export default function Index({ data }) {
     <div>
       <h1>Portfolio</h1>
       <Helmet title={`Portfolio Projects: Russell Schmidt`} />
-      {posts
-        .filter(post => post.node.frontmatter.title.length > 0)
-        .map(({ node: post }) => {
-          return (
-            <div key={post.id}>
-              <h3>
+      <div className={flexContainer}>
+        {posts
+          .filter(post => post.node.frontmatter.title.length > 0)
+          .map(({ node: post }) => {
+            return (
+              <div className={flexChild} key={post.id}>
                 <Link className={portfolioLinkStyle}
-                  to={post.frontmatter.path}>{post.frontmatter.title}</Link>
-              </h3>
-              <h4>{post.frontmatter.date}</h4>
-              <p>{post.excerpt}</p>
-            </div>
-          );
-        })}
+                to={post.frontmatter.path}>
+                  <h3>{post.frontmatter.title}</h3>
+                  <h4>{post.frontmatter.date}</h4>
+                  <p>{post.excerpt}</p>
+                </Link>
+              </div>
+            );
+          })}
+      </div>
     </div>
   );
 }
