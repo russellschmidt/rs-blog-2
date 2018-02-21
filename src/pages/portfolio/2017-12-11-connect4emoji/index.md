@@ -5,4 +5,4 @@ title: "connect4emoji"
 type: "portfolio"
 ---
 
-## <https://connect4emoji.herokuapp.com/>
+## <https://connect4emoji.herokuapp.com>

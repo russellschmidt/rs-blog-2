@@ -5,4 +5,4 @@ title: "RustyJams"
 type: "portfolio"
 ---
 
-## <https://blocjams-rms.herokuapp.com/>
+## <https://blocjams-rms.herokuapp.com>

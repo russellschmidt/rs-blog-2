@@ -5,4 +5,4 @@ title: "emedical.shop"
 type: "portfolio"
 ---
 
-## <https://www.emedical.shop/>
+## <https://www.emedical.shop>

@@ -5,4 +5,4 @@ title: "Rails Ecommerce Courses"
 type: "portfolio"
 ---
 
-<https://rs-one-month-stripe-payments.herokuapp.com/>
+## <https://rs-one-month-stripe-payments.herokuapp.com>

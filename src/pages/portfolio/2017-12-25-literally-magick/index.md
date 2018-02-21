@@ -5,4 +5,4 @@ title: "Literally Magick"
 type: "portfolio"
 ---
 
-## <https://literallymagick.com/>
+## <https://literallymagick.com>
