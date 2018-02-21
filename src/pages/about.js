@@ -17,7 +17,7 @@ const flexBaby = css({
   flexGrow: 1,
   margin: `0 auto`,
   textAlign: `left`
-})
+});
 
 const flexChild = css({
   padding: `5px 10px`,
@@ -26,23 +26,57 @@ const flexChild = css({
   flexGrow: 2,
   margin: `0 auto`,
   textAlign: `left`
-})
+});
+
+const flexBabyList = css({
+  listStyleType: `none`
+});
 
 export default () => (
   <div>
     <Helmet title={`About: Russell Schmidt`} />
     <h1>About Me</h1>
     <div className={flexContainer}>
+
       <article className={flexBaby}>
         <h2>Web Developer</h2>
         <p>I make websites. Let's make something cool together. Email me <a href="mailto:mail@russellschmidt.net?subject=Website%20Inquiry">mail@russellschmidt.net</a></p>
         <p>Check out my <Link to="/portfolio/">portfolio</Link> to learn more about some of the things I make.</p>
       </article>
+
       <article className={flexBaby}>
         <h2>Human Languages</h2>
         <p>I speak English and I am re-learning Spanish.</p>
         <p>I have a life goal to learn French, Hebrew, Icelandic, and Mandarin. The latter three langauges take about a year each to master.</p>
       </article>
+
+      <article className={flexBaby}>
+        <h2>Design Inspiration</h2>
+        <ul className={flexBabyList}>
+          <li><a href="https://activetheory.net/home" target="_blank">Active Theory</a></li>
+          <li><a href="http://www.alanfletcherarchive.com/" target="_blank">Alan Fletcher Archive</a></li>
+          <li><a href="http://curvy.dk/beagle/site/" target="_blank">Beagle</a></li>
+          <li><a href="http://www.bobgilletc.com/" target="_blank">Bob Gill</a></li>
+          <li><a href="https://www.epic.net/" target="_blank">Epic Agency</a></li>
+          <li><a href="http://www.fabrica.it/" target="_blank">Fabrica</a></li>
+          <li><a href="https://www.good.is/" target="_blank">Good</a></li>
+          <li><a href="https://www.ibm.com/design/language/" target="_blank">IBM Design</a></li>
+          <li><a href="http://kare.com/" _target="_blank">Susan Kare</a></li>
+          <li><a href="https://www.ludlowkingsley.com/" target="_blank">Ludlow Kingsley</a></li>
+          <li><a href="https://www.apple.com/mac-pro/" target="_blank">Mac Pro</a></li>
+          <li><a href="https://material.io/guidelines/" target="_blank">Material Design</a></li>
+          <li><a href="http://midoriaoyama.jp/" target="_blank">Midori Aoyama</a></li>
+          <li><a href="http://www.miltonglaser.com/" target="_blank">Milton Glaser</a></li>
+          <li><a href="https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf" target="_blank">NASA 1976 Design Guide (pdf)</a></li>
+          <li><a href="http://ondo.tv/1st/" target="_blank">Ondo</a></li>
+          <li><a href="https://philosophie.is/" target="_blank">Philosophie</a></li>
+          <li><a href="http://placesofintimacy.skyn.com/en" target="_blank">Places of Intimacy</a></li>
+          <li><a href="http://www.robinpayot.com/" target="_blank">Robin Payot Portfolio</a></li>
+          <li><a href="http://sagmeisterwalsh.com/" target="_blank">Sagmeister &amp; Walsh</a></li>
+          <li><a href="http://springsummer.dk/" target="_blank">Spring/Summer</a></li>
+        </ul>
+      </article>
+
       <article className={flexChild}>
         <h2>Programming Languages</h2>
         <p>Please have a look through my <Link to="/portfolio/">portfolio</Link> to learn more about what I have made and maintain.</p>
@@ -66,6 +100,7 @@ export default () => (
           </dd>
         </dl>
       </article>
+
     </div>
   </div>
 );
