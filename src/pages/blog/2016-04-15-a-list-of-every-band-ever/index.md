@@ -1,5 +1,5 @@
 ---
-path: "/blog/a-list-of-every-band-ever"
+path: "/blog/a-list-of-every-band-ever/"
 date: "2016-04-15T17:12:33.962Z"
 title: "A List of Every Band Every"
 type: "blog"

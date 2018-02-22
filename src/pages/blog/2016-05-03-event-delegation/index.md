@@ -1,5 +1,5 @@
 ---
-path: "/blog/event-delegation"
+path: "/blog/event-delegation/"
 date: "2016-05-03T17:12:33.962Z"
 title: "Event Delegation"
 type: "blog"

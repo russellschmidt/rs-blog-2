@@ -1,5 +1,5 @@
 ---
-path: "/blog/holstering-mandrill"
+path: "/blog/holstering-mandrill/"
 date: "2016-04-29T17:12:33.962Z"
 title: "Holstering Mandrill"
 type: "blog"

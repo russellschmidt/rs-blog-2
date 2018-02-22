@@ -1,5 +1,5 @@
 ---
-path: "/blog/angular-directives"
+path: "/blog/angular-directives/"
 date: "2016-04-25T17:12:33.962Z"
 title: "Angular Directives"
 type: "blog"

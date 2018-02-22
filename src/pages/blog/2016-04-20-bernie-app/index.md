@@ -1,5 +1,5 @@
 ---
-path: "/blog/bernie-app"
+path: "/blog/bernie-app/"
 date: "2016-04-20T17:12:33.962Z"
 title: "Bernie App"
 type: "blog"

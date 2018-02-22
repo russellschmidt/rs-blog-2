@@ -1,5 +1,5 @@
 ---
-path: "/blog/pomodoro-project"
+path: "/blog/pomodoro-project/"
 date: "2016-04-30T17:12:33.962Z"
 title: "Pomodoro Project"
 type: "blog"

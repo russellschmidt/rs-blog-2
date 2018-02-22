@@ -1,5 +1,5 @@
 ---
-path: "/blog/node-it-all"
+path: "/blog/node-it-all/"
 date: "2016-04-12T17:12:33.962Z"
 title: "Node it All"
 type: "blog"

@@ -1,5 +1,5 @@
 ---
-path: "/blog/learn-2-learn"
+path: "/blog/learn-2-learn/"
 date: "2016-04-29T17:12:33.962Z"
 title: "Learn2Learn"
 type: "blog"

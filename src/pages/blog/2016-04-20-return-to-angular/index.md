@@ -1,5 +1,5 @@
 ---
-path: "/blog/return-to-angular"
+path: "/blog/return-to-angular/"
 date: "2016-04-20T04:20:00.962Z"
 title: "Return to Angular"
 type: "blog"

@@ -1,5 +1,5 @@
 ---
-path: "/blog/escaping-double-curlies"
+path: "/blog/escaping-double-curlies/"
 date: "2016-04-21T17:12:33.962Z"
 title: "Escaping Double Curlies"
 type: "blog"

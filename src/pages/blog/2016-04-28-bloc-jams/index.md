@@ -1,5 +1,5 @@
 ---
-path: "/blog/bloc-jams"
+path: "/blog/bloc-jams/"
 date: "2016-04-28T17:12:33.962Z"
 title: "Bloc Jams"
 type: "blog"

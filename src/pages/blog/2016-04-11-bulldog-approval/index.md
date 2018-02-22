@@ -1,5 +1,5 @@
 ---
-path: "/blog/bulldog-approval"
+path: "/blog/bulldog-approval/"
 date: "2016-04-11T17:12:33.962Z"
 title: "Bulldog Approval"
 type: "blog"
