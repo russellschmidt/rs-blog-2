@@ -1,5 +1,5 @@
 ---
-path: "/blog/moving-to-rails"
+path: "/blog/moving-to-rails/"
 date: "2016-03-28T17:12:33.962Z"
 title: "Moving to Rails"
 type: "blog"

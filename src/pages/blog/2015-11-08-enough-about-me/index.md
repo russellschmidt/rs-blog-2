@@ -1,5 +1,5 @@
 ---
-path: "/blog/enough-about-me"
+path: "/blog/enough-about-me/"
 date: "2015-11-08T17:12:33.962Z"
 title: "Enough About Me"
 type: "blog"

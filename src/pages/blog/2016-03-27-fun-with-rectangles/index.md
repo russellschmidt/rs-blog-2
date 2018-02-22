@@ -1,5 +1,5 @@
 ---
-path: "/blog/fun-with-rectangles"
+path: "/blog/fun-with-rectangles/"
 date: "2016-03-27T17:12:33.962Z"
 title: "Fun With Rectangles"
 type: "blog"

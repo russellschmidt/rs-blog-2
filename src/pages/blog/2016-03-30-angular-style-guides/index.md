@@ -1,5 +1,5 @@
 ---
-path: "/blog/angular-style-guides"
+path: "/blog/angular-style-guides/"
 date: "2016-03-30T17:12:33.962Z"
 title: "Angular Style Guides"
 type: "blog"

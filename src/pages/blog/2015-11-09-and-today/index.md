@@ -1,5 +1,5 @@
 ---
-path: "/blog/and-today"
+path: "/blog/and-today/"
 date: "2015-11-09T17:12:33.962Z"
 title: "And Today"
 ---

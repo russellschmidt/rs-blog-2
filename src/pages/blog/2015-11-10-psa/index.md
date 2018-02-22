@@ -1,5 +1,5 @@
 ---
-path: "/blog/psa"
+path: "/blog/psa/"
 date: "2015-11-10T17:12:33.962Z"
 title: "PSA"
 ---

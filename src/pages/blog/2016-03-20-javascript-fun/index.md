@@ -1,5 +1,5 @@
 ---
-path: "/blog/javascript-fun"
+path: "/blog/javascript-fun/"
 date: "2016-03-20T17:12:33.962Z"
 title: "JavaScript Fun"
 type: "blog"

@@ -1,5 +1,5 @@
 ---
-path: "/blog/designing-my-concert-skill"
+path: "/blog/designing-my-concert-skill/"
 date: "2016-04-10T17:12:33.962Z"
 title: "Designing My Concert Skill"
 type: "blog"

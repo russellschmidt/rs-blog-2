@@ -1,5 +1,5 @@
 ---
-path: "/blog/jekyll-from-scratch"
+path: "/blog/jekyll-from-scratch/"
 date: "2016-03-24T17:12:33.962Z"
 title: "Jekyll From Scratch"
 type: "blog"

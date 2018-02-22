@@ -1,5 +1,5 @@
 ---
-path: "/blog/template-of-late"
+path: "/blog/template-of-late/"
 date: "2016-03-31T17:12:33.962Z"
 title: "Template of Late"
 type: "blog"

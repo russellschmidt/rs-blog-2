@@ -1,5 +1,5 @@
 ---
-path: "/blog/climate-cents"
+path: "/blog/climate-cents/"
 date: "2016-03-22T17:12:33.962Z"
 title: "Climate Cents"
 type: "blog"

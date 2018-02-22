@@ -1,5 +1,5 @@
 ---
-path: "/blog/origin-of-the-symmetries"
+path: "/blog/origin-of-the-symmetries/"
 date: "2015-11-12T17:12:33.962Z"
 title: "Origin of the Symmetries"
 type: "blog"

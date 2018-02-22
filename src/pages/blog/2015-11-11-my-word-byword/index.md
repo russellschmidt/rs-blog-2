@@ -1,5 +1,5 @@
 ---
-path: "/blog/my-word-byword"
+path: "/blog/my-word-byword/"
 date: "2015-11-11T17:12:33.962Z"
 title: "My Word, Byword!"
 ---
