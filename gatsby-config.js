@@ -35,6 +35,24 @@ module.exports = {
       } //
     },
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp` //,
+    `gatsby-plugin-sharp`,
+    {
+    resolve: `gatsby-plugin-favicon`,
+    options: {
+      logo: "./src/favicon.png",
+      injectHTML: true,
+      icons: {
+        android: true,
+        appleIcon: true,
+        appleStartup: true,
+        coast: true,
+        favicons: true,
+        firefox: true,
+        twitter: true,
+        yandex: true,
+        windows: true
+      }
+    }
+  }
   ] //
 };
