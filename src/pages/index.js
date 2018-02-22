@@ -9,6 +9,6 @@ const heroImage = css({
 
 export default () => (
   <div>
-    <img className={heroImage} src="https://s3.amazonaws.com/russell-personal/rs/anothercityispossible_comp1.jpg" title="truth" alt="another city is possible"/>
+    <img className={heroImage} src="https://s3.amazonaws.com/russell-personal/rs/anothercityispossible_comp1.jpg" title="This artwork was created in 2008 by Lauren Bon and the Metabolic Studio, quoting Manuel Castells" alt="another city is possible"/>
   </div>
 );

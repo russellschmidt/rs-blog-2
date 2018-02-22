@@ -17,6 +17,7 @@ Russell Schmidt's portfolio and blog.
 * gatsby-source-filesystem: allows you to manipulate data in files on your  file system.
 * gatsby-plugin-catch-links: Intercepts local links from markdown and other non-react pages, and does a client-side pushState to avoid the browser having to refresh the page (definition stolen from [here](https://medium.freecodecamp.org/how-to-build-a-react-and-gatsby-powered-blog-in-about-10-minutes-625c35c06481))
 * gh-pages: for simple deployment to Github Pages
+* gatsby-plugin-google-analytics: to make sure the blood sacrifice is made to the GoogleGod (and get Google Analytics data to work)
 
 #### Future Plugins
 * gatsby-plugin-google-analytics
