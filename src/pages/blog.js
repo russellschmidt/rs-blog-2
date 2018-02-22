@@ -14,9 +14,10 @@ const blogPostsFlexbox = css({
 
 const blogPostPreview = css({
   padding: `5px 10px`,
-  width: `32%`,
+  margin: `0 2px 5px`,
+  width: `30%`,
+  flexGrow: 1,
   minWidth: 300,
-  marginBottom: `1.5vh`,
   backgroundColor: `#222`,
   "&:hover": {backgroundColor: `#444`}
 });
