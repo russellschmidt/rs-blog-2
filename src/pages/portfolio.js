@@ -23,11 +23,19 @@ const flexContainer = css({
 const flexChild = css({
   margin: `5px`,
   padding: `5px`,
-  width: `24%`,
-  minWidth: 200,
-  height: 250,
+  flexGrow: 1,
   background: `#222`,
+  height: 175,
+  minWidth: 200,
+  "&:hover": {backgroundColor: `#444`},
+  textAlign: `center`,
 });
+
+const flexChildText = css({
+  textDecoration: `none`,
+  color: `#ccc`,
+  "&:hover": {color: `#fff`},
+})
 
 export default function Index({ data }) {
   const { edges: posts } = data.allMarkdownRemark;
@@ -43,9 +51,9 @@ export default function Index({ data }) {
               <div className={flexChild} key={post.id}>
                 <Link className={portfolioLinkStyle}
                 to={post.frontmatter.path}>
-                  <h3>{post.frontmatter.title}</h3>
-                  <h4>{post.frontmatter.date}</h4>
-                  <p>{post.excerpt}</p>
+                  <h3 className={flexChildText}>{post.frontmatter.title}</h3>
+                  <h4 className={flexChildText}>{post.frontmatter.date}</h4>
+                  <p className={flexChildText}>{post.excerpt}</p>
                 </Link>
               </div>
             );

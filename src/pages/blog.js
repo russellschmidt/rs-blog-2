@@ -14,13 +14,18 @@ const blogPostsFlexbox = css({
 
 const blogPostPreview = css({
   padding: `5px 10px`,
-  width: 300,
-  margin: `0 auto`,
+  width: `32%`,
+  minWidth: 300,
+  marginBottom: `1.5vh`,
+  backgroundColor: `#222`,
+  "&:hover": {backgroundColor: `#444`}
 });
 
 const blogPostTitle = css({
   marginTop: rhythm(1/2),
-  marginBottom: rhythm(1/2)
+  marginBottom: rhythm(1/2),
+  color: `#ccc`,
+  "&:hover": {color: `#fff`}
 });
 
 const blogLinkStyle = css({
@@ -31,7 +36,9 @@ const blogLinkStyle = css({
 
 const blogPostDate = css({
   marginTop: rhythm(1/2),
-  marginBottom: rhythm(1)
+  marginBottom: rhythm(1),
+  color: `#ccc`,
+  "&:hover": {color: `#fff`}
 });
 
 export default function Index({ data }) {
@@ -47,11 +54,7 @@ export default function Index({ data }) {
           return (
             <div className={blogPostPreview} key={post.id}>
               <Link className={blogLinkStyle} to={post.frontmatter.path}>
-                <h3 className={blogPostTitle}>
-
-                    {post.frontmatter.title}
-
-                </h3>
+                <h3 className={blogPostTitle}>{post.frontmatter.title}</h3>
                 <h4 className={blogPostDate}>{post.frontmatter.date}</h4>
                 <p>{post.excerpt}</p>
               </Link>
