@@ -41,7 +41,7 @@ const blogPostDate = css({
   "&:hover": {color: `#fff`}
 });
 
-export default function Index({ data }) {
+export default function BlogIndex({ data }) {
   const { edges: posts } = data.allMarkdownRemark;
   return (
     <div>
