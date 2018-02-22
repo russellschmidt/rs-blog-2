@@ -1,5 +1,5 @@
 ---
-path: "/blog/memory-makin"
+path: "/blog/memory-makin/"
 date: "2016-05-14T17:12:33.962Z"
 title: "Memory Makin"
 type: "blog"

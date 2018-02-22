@@ -1,5 +1,5 @@
 ---
-path: "/blog/big-finish"
+path: "/blog/big-finish/"
 date: "2016-05-20T10:12:33.962Z"
 title: "Big Finish"
 type: "blog"

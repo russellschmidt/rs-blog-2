@@ -1,5 +1,5 @@
 ---
-path: "/blog/react-time"
+path: "/blog/react-time/"
 date: "2016-05-11T17:12:33.962Z"
 title: "React Time"
 type: "blog"
