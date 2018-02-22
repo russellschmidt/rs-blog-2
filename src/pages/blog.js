@@ -22,8 +22,8 @@ const blogPostPreview = css({
 });
 
 const blogPostTitle = css({
-  marginTop: rhythm(1/2),
-  marginBottom: rhythm(1/2),
+  marginTop: `1.6rem`,
+  marginBottom: `1.6rem`,
   color: `#ccc`,
   "&:hover": {color: `#fff`}
 });
@@ -35,8 +35,8 @@ const blogLinkStyle = css({
 });
 
 const blogPostDate = css({
-  marginTop: rhythm(1/2),
-  marginBottom: rhythm(1),
+  marginTop: `1.6rem`,
+  marginBottom: `3.2rem`,
   color: `#ccc`,
   "&:hover": {color: `#fff`}
 });
