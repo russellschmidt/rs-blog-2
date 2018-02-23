@@ -46,7 +46,7 @@ export default function BlogIndex({ data }) {
   const { edges: posts } = data.allMarkdownRemark;
   return (
     <div>
-      <h1>Blah-Blah Me Me Me</h1>
+      <h1>Blog</h1>
       <Helmet title={`Blog posts: Russell Schmidt`} />
       <div className={blogPostsFlexbox}>
       {posts
